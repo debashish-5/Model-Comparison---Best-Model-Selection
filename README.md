@@ -97,11 +97,11 @@ Designed with a production-oriented evaluation mindset.
 # Repository Structure
 
 ```
-├── data/
-├── notebooks/
-├── models/
-├── main.py
-├── requirements.txt
+.
+├── Model Comparison & Best Model Selection.ipynb
+├── AIML task 14.pdf
+├── best_model.pkl
+├── Scikit-Learn vs. Keras Data Splitting Syntax.pdf
 └── README.md
 ```
 
